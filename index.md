@@ -1,3 +1,3 @@
-## Trying to make a web page of recipes  
+## Pea Hacking, etc. 
 
 [Instant Pot Dal Makhani](dal.html)
