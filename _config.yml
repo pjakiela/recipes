@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
-title:  Pam Jakiela's Recipes
+theme: jekyll-theme-minimal
+title:  Dinner:  The Replication Files
+logo: risotto.jpg
 github:
     is_project_page: false
+show_downloads: false
