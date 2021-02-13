@@ -1,6 +1,6 @@
 ## Peppery Fried Rice
 
-_This is just everyday "using up the leftover rice" fried rice that I learned to make in college, but elevated by the inclusion of slightly numbing Sichuan peppercorns.  A surprisingly satisfying weeknight meal.  You can use pretty much any vegetables as long as you have garlic and/or ginger, but the celery and carrots work well because it is basically impossible to overcook them (so you don't need to pay close attention to how long you leave the rice on the stove)._ 
+_This is just everyday "using up the leftover rice" fried rice that I learned to make in college, but elevated by the inclusion of slightly numbing Sichuan peppercorns.  A surprisingly satisfying weeknight meal.  You can use pretty much any vegetables as long as you have garlic and/or ginger, but the celery and carrots work well because it is basically impossible to overcook them (so you don't need to pay close attention to how long you leave the rice on the stove)._  
 
   
 > 2 cups cooked white rice  
